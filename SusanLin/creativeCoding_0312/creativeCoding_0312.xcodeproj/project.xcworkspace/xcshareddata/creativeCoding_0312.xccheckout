@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0193A305-9F25-4E6A-B4D0-9F5A1F31D489</string>
+	<key>IDESourceControlProjectName</key>
+	<string>creativeCoding_0312</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3E3ECB6A-E604-4826-83C0-5FC6B3555CA1</key>
+		<string>https://github.com/shuyl105/dtplayfulsystems.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>dtplayfulsystems/SusanLin/creativeCoding_0312/creativeCoding_0312.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3E3ECB6A-E604-4826-83C0-5FC6B3555CA1</key>
+		<string>../../../..</string>
+		<key>EC586A3F-D553-4B87-AE51-A66B80BDB93B</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/shuyl105/dtplayfulsystems.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EC586A3F-D553-4B87-AE51-A66B80BDB93B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3E3ECB6A-E604-4826-83C0-5FC6B3555CA1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>dtplayfulsystems</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EC586A3F-D553-4B87-AE51-A66B80BDB93B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>of_v0.8-2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
